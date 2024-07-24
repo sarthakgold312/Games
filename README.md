@@ -1,1 +1,1 @@
-echo "# Games"
+# Games
