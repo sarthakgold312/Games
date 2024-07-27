@@ -37,6 +37,13 @@ img{
     gap: 3rem;
     margin-top: 5rem;
 }
+.name-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+    margin-top: 0.5rem;
+}
 
 .score-board{
     display: flex;
